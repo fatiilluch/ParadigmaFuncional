@@ -5,3 +5,6 @@ data Usuario = Usuario{
     direccion :: String,
     telefono :: Int
 }deriving (show)
+
+
+--esto crea un usuario 
