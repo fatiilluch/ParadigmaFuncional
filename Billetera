@@ -1,0 +1,6 @@
+
+data Billetera = Billetera{
+    dinero :: Float,
+    id :: String,
+    estaLlena :: Bool
+}deriving (show, eq)
